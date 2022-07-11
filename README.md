@@ -1,6 +1,6 @@
 - 👋 Olá! Me chamo Camila, este é o repitório onde armazeno meu portifólio, trabalhos e eventuais códigos.
 - 👀 Meu maior foco é análise de dados e programação. 
-- 🌱 Atualmente estou estudando análise de dados e engenharia elétrica.
+- 🌱 Atualmente estou estudando análise de dados: desenvolvendo portifólio e reciclando conhecimentos.
 - 💞️ Adoraria poder trocar algumas ideias e melhorar meus trabalho, sintam-se a vontade para entrar em contato.
 - 📫 Meu e-mail é contato@camilaoliveira.net
 
